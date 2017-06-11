@@ -1,0 +1,2 @@
+# BeegoDemo
+Beego Framework demo
